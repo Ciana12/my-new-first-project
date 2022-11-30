@@ -1,0 +1,25 @@
+*{
+    background-color: #fcb8fc;
+    font-family: 'Barlow', sans-serif;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    text-align: center;
+}
+
+#img {
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    border-radius: 200px;
+    
+    
+}
+
+
+
+  
